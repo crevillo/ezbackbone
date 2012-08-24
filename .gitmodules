@@ -1,0 +1,9 @@
+[submodule "ezp"]
+	path = ezp
+	url = https://github.com/ezsystems/ezpublish.git
+[submodule "ezjscore"]
+	path = ezjscore
+	url = https://github.com/ezsystems/ezjscore.git
+[submodule "extension/ezjscore"]
+	path = extension/ezjscore
+	url = https://github.com/ezsystems/ezjscore.git
